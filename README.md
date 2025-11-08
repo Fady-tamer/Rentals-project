@@ -21,23 +21,30 @@ Project about apartment Rentals/Real Estate Marketplace
 ## Database 
 ```
   • Account
-      |_____( seller )
-      |          |________( fullName) => varchar
-      |          |________( email ) => varchar
-      |          |________( phone ) => varchar
-      |          |________( password ) => varchar 
-      |_____( buyer )
-               |________( fullName) => varchar
-               |________( email ) => varchar
-               |________( password ) => varchar
+      |
+      |___( seller )
+      |        |
+      |        |___( fullName) => varchar
+      |        |___( email ) => varchar
+      |        |___( phone ) => varchar
+      |        |___( password ) => varchar
+      | 
+      |___( buyer )
+              |
+              |___( fullName) => varchar
+              |___( email ) => varchar
+              |___( password ) => varchar
 
   • products 
+      |       
       |_____( type ) => varchar
       |_____( price ) => int
       |_____( address ) => varchar
-      |           |________( streat )
-      |           |________( area )
-      |           |________( Governorate )
+      |          |
+      |          |___( streat )
+      |          |___( area )
+      |          |___( Governorate )
+      |
       |_____( area ) => int
       |_____( bedroom ) => int
       |_____( bathroom ) => int
