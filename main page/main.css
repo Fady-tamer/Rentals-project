@@ -1,0 +1,52 @@
+html {
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+    image-rendering: optimizeSpeed;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #dfdfdf;
+}
+
+.header {
+    margin: 20px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 30px;
+    background-color: #0b4fe0;
+}
+
+.headerImg {
+    width: 150px;
+}
+
+.headerSearch label {
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #dfdfdf;
+}
+
+.headerSearch input {
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+}
+
+.headerNavigation {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.headerNavigation a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #dfdfdf;
+}
