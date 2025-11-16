@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Fady-tamer/Web-project/blob/main/img/project%20logo%20WBG.png" width="200px"/>
+  <img src="img/project logo.png" width="200px"/>
 </p>
 
 ## About
