@@ -3,7 +3,7 @@
 </div>
 
 ## About
-Project about apartment Rentals/Real Estate Marketplace
+Project about Rentals/Real Estate Marketplace
 
 ## Objectives 
 ```
