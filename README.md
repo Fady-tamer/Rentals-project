@@ -1,10 +1,18 @@
 <div align=center>
+<<<<<<< HEAD
   <img src="img/project logo.png" width="700" alt="project logo" />
 </div>
 
 ## About
 
 Project about apartment Rentals/Real Estate Marketplace
+=======
+  <img src="https://github.com/Fady-tamer/Rentals-project/blob/main/img/project%20Logo.png" width="700" alt="project logo" />
+</div>
+
+## About
+Project about Rentals/Real Estate Marketplace
+>>>>>>> c82867905a97ebc5eda08518a4e4d449af1f6f56
 
 ## Objectives
 
