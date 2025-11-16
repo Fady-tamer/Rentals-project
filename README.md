@@ -1,24 +1,28 @@
-<div style="text-align:center">
-  <img src="img/project%20logo.png" width="200" alt="project logo" />
+<div align=center>
+  <img src="img/project logo.png" width="700" alt="project logo" />
 </div>
 
 ## About
+
 Project about apartment Rentals/Real Estate Marketplace
 
-## Objectives 
+## Objectives
+
 ```
-  • make accounts of seller and buyer 
+  • make accounts of seller and buyer
   • how seller to add products post
   • make Live Search/Filter
 ```
 
 ## Pages
+
 ```
   • Login/sign up page
   • catalog (main) page
 ```
 
-## Database 
+## Database
+
 ```
   • Account
       |
@@ -28,15 +32,15 @@ Project about apartment Rentals/Real Estate Marketplace
       |        |___( email ) => varchar
       |        |___( phone ) => varchar
       |        |___( password ) => varchar
-      | 
+      |
       |___( buyer )
               |
               |___( fullName) => varchar
               |___( email ) => varchar
               |___( password ) => varchar
 
-  • products 
-      |       
+  • products
+      |
       |_____( type ) => varchar
       |_____( price ) => int
       |_____( address ) => varchar
@@ -49,4 +53,3 @@ Project about apartment Rentals/Real Estate Marketplace
       |_____( bedroom ) => int
       |_____( bathroom ) => int
 ```
-      
